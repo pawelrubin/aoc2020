@@ -1,7 +1,7 @@
-| Day number |      Problem name       | Letter |    Language |
-| ---------- | :---------------------: | :----: | ----------: |
-| 1          |      Report Repair      |   A    |         Ada |
-| 2          |   Password Philosophy   |   B    |       Basic |
+| Day number |      Problem name       | Letter |    Language | Status |
+| ---------- | :---------------------: | :----: | ----------: | :----: |
+| 1          |      Report Repair      |   A    |         Ada |   ✔️    |
+| 2          |   Password Philosophy   |   B    |       Basic |   🚧    |
 | 3          |   Toboggan Trajectory   |   C    |           C |
 | 4          |   Passport Processing   |   D    |        Dart |
 | 5          |     Binary Boarding     |   E    |      Elixir |
