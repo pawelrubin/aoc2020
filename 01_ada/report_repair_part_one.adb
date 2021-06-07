@@ -22,6 +22,7 @@ begin
       if seen.Contains (complement) then
          product := (num * complement);
          Put_Line (product'Img);
+         exit;
       end if;
       seen.Insert (num);
    end loop;
