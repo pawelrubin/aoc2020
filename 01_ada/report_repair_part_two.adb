@@ -11,6 +11,7 @@ procedure Report_Repair_Part_Two is
    year       : constant Positive := 2_020;
    F          : File_Type;
    File_Name  : constant String   := "input.txt";
+   num        : Positive;
    sum        : Positive;
    complement : Positive;
    product    : Positive;
@@ -18,7 +19,10 @@ procedure Report_Repair_Part_Two is
 begin
    Open (F, In_File, File_Name);
    while not End_Of_File (F) loop
-      numbers.Insert (Integer'Value (Get_Line (F)));
+      num := Integer'Value (Get_Line (F));
+      if num < year - 1 then
+         numbers.Insert (num);
+      end if;
    end loop;
    Close (F);
 
