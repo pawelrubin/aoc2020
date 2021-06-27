@@ -4,7 +4,7 @@
 | 2          |   Password Philosophy   |   B    |   Ballerina |   ✔️    |
 | 3          |   Toboggan Trajectory   |   C    |           C |   ✔️    |
 | 4          |   Passport Processing   |   D    |        Dart |   ✔️    |
-| 5          |     Binary Boarding     |   E    |      Elixir |
+| 5          |     Binary Boarding     |   E    |      Elixir |   ✔️    |
 | 6          |     Custom Customs      |   F    |          F# |
 | 7          |    Handy Haversacks     |   G    |          Go |
 | 8          |    Handheld Halting     |   H    |     Haskell |
