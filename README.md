@@ -6,7 +6,7 @@
 | 4          |   Passport Processing   |   D    |        Dart |   ✔️    |
 | 5          |     Binary Boarding     |   E    |      Elixir |   ✔️    |
 | 6          |     Custom Customs      |   F    |          F# |   ✔️    |
-| 7          |    Handy Haversacks     |   G    |          Go |
+| 7          |    Handy Haversacks     |   G    |          Go |   ✔️    |
 | 8          |    Handheld Halting     |   H    |     Haskell |
 | 9          |     Encoding Error      |   I    |       Idris |
 | 10         |      Adapter Array      |   J    |  JavaScript |
